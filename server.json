@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-02-07T00:34:38.028Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-07T00:34:38.028Z"
+    },
+    {
+      "description": "Blauzera do chagablau",
+      "price": 750,
+      "category": "Diversão",
+      "type": "outcome",
+      "id": 3,
+      "createdAt": "2023-02-07T00:34:38.028Z"
+    },
+    {
+      "description": "Vrau",
+      "price": 100,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2023-02-08T00:31:17.500Z",
+      "id": 4
+    },
+    {
+      "description": "Planeta Vrau",
+      "price": 250,
+      "category": "Festa",
+      "type": "income",
+      "createdAt": "2023-02-08T00:36:14.407Z",
+      "id": 5
+    },
+    {
+      "description": "Quero ver. se vai funfar",
+      "price": 50,
+      "category": "Quebradera",
+      "type": "outcome",
+      "createdAt": "2023-02-08T01:08:43.993Z",
+      "id": 6
+    },
+    {
+      "description": "adasd",
+      "price": 22,
+      "category": "aaa",
+      "type": "outcome",
+      "createdAt": "2023-02-08T01:09:27.112Z",
+      "id": 7
+    },
+    {
+      "description": "agora vai",
+      "price": 100,
+      "category": "Funciona desgraça",
+      "type": "income",
+      "createdAt": "2023-02-08T01:10:14.846Z",
+      "id": 8
+    },
+    {
+      "description": "aaa",
+      "price": 22,
+      "category": "Diversão",
+      "type": "income",
+      "createdAt": "2023-02-08T01:13:10.818Z",
+      "id": 9
+    },
+    {
+      "description": "QUERO VER AGORA",
+      "price": 666,
+      "category": "Capeta",
+      "type": "outcome",
+      "createdAt": "2023-02-08T01:13:48.225Z",
+      "id": 10
+    }
+  ]
+}
